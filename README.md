@@ -54,7 +54,7 @@ Mock-Up
 ## Installation
 in terminal download 
 - NPM I
-- NPM mongongoose
+- NPM Mongoose package
 - NPM react
 - NPM express
 
